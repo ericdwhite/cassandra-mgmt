@@ -9,7 +9,8 @@ For additional info see: http://www.datastax.com/documentation/cassandra/2.0/cas
 
 Create a new setup of snapshots
 -------------------------------
-This script will create new snaps
+This script will create new snapshots.  It expects to be run on the host running cassandra.  It also
+expects that cassandra is running.
 
     $ ./backup.sh
 
