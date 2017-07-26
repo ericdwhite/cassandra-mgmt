@@ -17,7 +17,7 @@ expects that cassandra is running.
 Find old snapshots
 ------------------
 This script is used to find old snapshots, including or excluding the latest
-snapshot.  See the script for the options: -Y -O
+snapshot.  See the script for the options: `-Y -O`
 
       $ ./find-snapshots.sh
 
